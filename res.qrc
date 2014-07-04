@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>undo.ico</file>
+        <file alias="pickColor">gtk_color_picker.ico</file>
+        <file alias="pencil">pencil.ico</file>
+        <file alias="icon">Icons-Land-Vista-Halloween-Pirate-Captain.ico</file>
+    </qresource>
+</RCC>
